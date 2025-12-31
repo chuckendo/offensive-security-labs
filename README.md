@@ -1,2 +1,4 @@
 # offensive-security-labs
-scripts
+Below is a list of scripts I have created while participating in TryHackME
+
+# scripts
